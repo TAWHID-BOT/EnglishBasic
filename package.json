@@ -1,0 +1,15 @@
+{
+  "name": "quiz-bot-pro",
+  "version": "1.0.0",
+  "description": "Professional Quiz Bot Template by TAWHID ISLAM SIAM",
+  "main": "SRC/index.js",
+  "scripts": {
+    "start": "node SRC/index.js",
+    "convert": "node SRC/utils/converter.js"
+  },
+  "author": "TAWHID ISLAM SIAM",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
