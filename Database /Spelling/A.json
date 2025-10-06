@@ -1,1 +1,424 @@
-[]
+[
+  {
+      "subHeading": "LETTER WITH A",
+          "mcq": [
+        {
+    "id": 1,
+    "question": "Which of the following words is correctly spelled?",
+    "options": ["Abbriviate", "Abbreveate", "Abberviate", "Abbreviate"],
+    "correct_answer": "Abbreviate",
+    "explanation": "Abbreviate (V) — অ্যা-ব্রি-ভি-এট।\nঅর্থ: কোনো কিছুকে ছোট করা, সংক্ষিপ্ত করা।\nExample: We often abbreviate long names at work.\nঅনুবাদ: আমরা অফিসে লম্বা নামগুলো প্রায়ই ছোট করে লিখি।"
+  },
+  {
+    "id": 2,
+    "question": "Find the correctly spelt word.",
+    "options": ["Abbhorrence", "Abhorance", "Abhorence", "Abhorrence"],
+    "correct_answer": "Abhorrence",
+    "explanation": "Abhorrence (N) — অ্যাব-হর-েন্স।\nঅর্থ: ঘৃণা, তীব্র অপছন্দ।\nExample: He showed his abhorrence of injustice.\nঅনুবাদ: সে অন্যায়ের প্রতি তার ঘৃণা প্রকাশ করল।"
+  },
+  {
+    "id": 3,
+    "question": "Choose the correct spelling:",
+    "options": ["Abundence", "Abundanse", "Abondance", "Abundance"],
+    "correct_answer": "Abundance",
+    "explanation": "Abundance (N) — অ্যা-বান-ডান্স।\nঅর্থ: প্রাচুর্য, প্রচুর পরিমাণে।\nExample: The garden was full of flowers in abundance.\nঅনুবাদ: বাগানটি ছিল ফুলে ভরপুর।"
+  },
+  {
+    "id": 4,
+    "question": "The correct spelling is—",
+    "options": ["Accelerrate", "Acsellerate", "Acelerate", "Accelerate"],
+    "correct_answer": "Accelerate",
+    "explanation": "Accelerate (V) — অ্যাক-সেল-রে-ট।\nঅর্থ: গতি বৃদ্ধি করা, ত্বরান্বিত করা।\nExample: The driver accelerated to cross the signal.\nঅনুবাদ: চালক সিগনাল পার হতে গতি বাড়াল।"
+  },
+  {
+    "id": 5,
+    "question": "Which one is correct?",
+    "options": ["Acsceptance", "Acceptence", "Accaptance", "Acceptance"],
+    "correct_answer": "Acceptance",
+    "explanation": "Acceptance (N) — অ্যাক-সেপ-টেন্স।\nঅর্থ: গ্রহণ, অনুমোদন।\nExample: Her acceptance of the offer surprised everyone.\nঅনুবাদ: প্রস্তাবটি গ্রহণ করে সে সবাইকে অবাক করল।"
+  },
+  {
+    "id": 6,
+    "question": "Identify the correct spelling.",
+    "options": ["Accaptance", "Acsceptance", "Acceptence", "Acceptance"],
+    "correct_answer": "Acceptance",
+    "explanation": "Acceptance (N) — অ্যাক-সেপ-টেন্স।\nঅর্থ: গ্রহণ, অনুমোদন।\nExample: His acceptance of the truth made him stronger.\nঅনুবাদ: সত্য মেনে নেওয়ায় সে আরও দৃঢ় হলো।"
+  },
+  {
+    "id": 7,
+    "question": "Find out the correctly spelt word.",
+    "options": ["Acessories", "Accesories", "Acsessories", "Accessories"],
+    "correct_answer": "Accessories",
+    "explanation": "Accessories (N) — অ্যাক-সেস-সরি-জ।\nঅর্থ: আনুষঙ্গিক বস্তু, অতিরিক্ত জিনিস।\nExample: She bought some new accessories for her phone.\nঅনুবাদ: সে তার ফোনের জন্য কিছু নতুন আনুষঙ্গিক জিনিস কিনল।"
+  },
+  {
+    "id": 8,
+    "question": "Which is the correctly spelling?",
+    "options": ["Accidantally", "Accidently", "Accedently", "Accidentally"],
+    "correct_answer": "Accidentally",
+    "explanation": "Accidentally (Adv) — অ্যাক-সি-ডেন-টালি।\nঅর্থ: ভুলবশত, অনিচ্ছাকৃতভাবে।\nExample: I accidentally dropped my keys in the pond.\nঅনুবাদ: আমি ভুল করে চাবিটা পুকুরে ফেলে দিয়েছিলাম।"
+  },
+  {
+    "id": 9,
+    "question": "The correct spelling is—",
+    "options": ["Aclamation", "Acclametion", "Aclimation", "Acclamation"],
+    "correct_answer": "Acclamation",
+    "explanation": "Acclamation (N) — অ্যাক-লা-মে-শন।\nঅর্থ: প্রশংসা, সম্মিলিত স্বীকৃতি।\nExample: The winner received loud acclamation from the crowd.\nঅনুবাদ: বিজয়ী জনতার জোরালো প্রশংসা পেল।"
+  },
+  {
+    "id": 10,
+    "question": "Which of the following words is correctly spelled?",
+    "options": ["Acommodation", "Accomodation", "Acommadation", "Accommodation"],
+    "correct_answer": "Accommodation",
+    "explanation": "Accommodation (N) — অ্যা-কম-মো-ডে-শন।\nঅর্থ: বাসস্থান, থাকার জায়গা।\nExample: We found comfortable accommodation near the beach.\nঅনুবাদ: আমরা সমুদ্রের ধারে আরামদায়ক থাকার জায়গা পেয়েছিলাম।"
+  },
+{
+    "id": 11,
+    "question": "?",
+    "options": ["","","","accomplishment"],
+    "correct_Answer": "",
+    "explanation": ""
+},
+{
+    "id": 12,
+    "question": "?",
+    "options": ["","accordance","",""],
+    "correct_Answer": "",
+    "explanation": ""
+},
+{
+    "id": 13,
+    "question": "?",
+    "options": ["accumulate","","",""],
+    "correct_Answer": "",
+    "explanation": ""
+},
+{
+    "id": 14,
+    "question": "?",
+    "options": ["","","accuracy",""],
+    "correct_Answer": "",
+    "explanation": ""
+},
+{
+    "id": 15,
+    "question": "?",
+    "options": ["","","","achievement"],
+    "correct_Answer": "",
+    "explanation": ""
+},
+{
+    "id": 16,
+    "question": "?",
+    "options": ["","","acknowledgement",""],
+    "correct_Answer": "",
+    "explanation": ""
+},
+{
+    "id": 17,
+    "question": "?",
+    "options": ["acquaintance","","",""],
+    "correct_Answer": "",
+    "explanation": ""
+},
+{
+    "id": 18,
+    "question": "?",
+    "options": ["","","address",""],
+    "correct_Answer": "",
+    "explanation": ""
+},
+{
+    "id": 19,
+    "question": "?",
+    "options": ["adequately","","",""],
+    "correct_Answer": "",
+    "explanation": ""
+},
+{
+    "id": 20,
+    "question": "?",
+    "options": ["","","","adherence"],
+    "correct_Answer": "",
+    "explanation": ""
+},
+{
+    "id": 21,
+    "question": "?",
+    "options": ["admittance","","",""],
+    "correct_Answer": "",
+    "explanation": ""
+},
+{
+    "id": 22,
+    "question": "?",
+    "options": ["","adolescent","",""],
+    "correct_Answer": "",
+    "explanation": ""
+},
+{
+    "id": 23,
+    "question": "?",
+    "options": ["","","adulteration",""],
+    "correct_Answer": "",
+    "explanation": ""
+},
+{
+    "id": 24,
+    "question": "?",
+    "options": ["","","affection",""],
+    "correct_Answer": "",
+    "explanation": ""
+},
+{
+    "id": 25,
+    "question": "?",
+    "options": ["","","","affiliation"],
+    "correct_Answer": "",
+    "explanation": ""
+},
+{
+    "id": 26,
+    "question": "?",
+    "options": ["Aggravate","","",""],
+    "correct_Answer": "",
+    "explanation": ""
+},
+{
+    "id": 27,
+    "question": "?",
+    "options": ["","","aggression",""],
+    "correct_Answer": "",
+    "explanation": ""
+},
+{
+    "id": 28,
+    "question": "?",
+    "options": ["","albatross","",""],
+    "correct_Answer": "",
+    "explanation": ""
+},
+{
+    "id": 29,
+    "question": "?",
+    "options": ["","alcohol","",""],
+    "correct_Answer": "",
+    "explanation": ""
+},
+{
+    "id": 30,
+    "question": "?",
+    "options": ["","alien","",""],
+    "correct_Answer": "",
+    "explanation": ""
+},
+{
+    "id": 31,
+    "question": "?",
+    "options": ["","","","aluminum"],
+    "correct_Answer": "",
+    "explanation": ""
+},
+{
+    "id": 32,
+    "question": "?",
+    "options": ["","","alumni",""],
+    "correct_Answer": "",
+    "explanation": ""
+},
+{
+    "id": 33,
+    "question": "?",
+    "options": ["amateur","","",""],
+    "correct_Answer": "",
+    "explanation": ""
+},
+{
+    "id": 34,
+    "question": "?",
+    "options": ["","","ambassador",""],
+    "correct_Answer": "",
+    "explanation": ""
+},
+{
+    "id": 35,
+    "question": "?",
+    "options": ["","","anachronism",""],
+    "correct_Answer": "",
+    "explanation": ""
+},
+{
+    "id": 36,
+    "question": "?",
+    "options": ["","","anemia",""],
+    "correct_Answer": "",
+    "explanation": ""
+},
+{
+    "id": 37,
+    "question": "?",
+    "options": ["anesthesia","","",""],
+    "correct_Answer": "",
+    "explanation": ""
+},
+{
+    "id": 38,
+    "question": "?",
+    "options": ["","","annihilate",""],
+    "correct_Answer": "",
+    "explanation": ""
+},
+{
+    "id": 39,
+    "question": "?",
+    "options": ["","","","anniversary"],
+    "correct_Answer": "",
+    "explanation": ""
+},
+{
+    "id": 40,
+    "question": "?",
+    "options": ["anonymous","","",""],
+    "correct_Answer": "",
+    "explanation": ""
+},
+{
+    "id": 41,
+    "question": "?",
+    "options": ["","","antiseptic",""],
+    "correct_Answer": "",
+    "explanation": ""
+},
+{
+    "id": 42,
+    "question": "?",
+    "options": ["","apparatus","",""],
+    "correct_Answer": "",
+    "explanation": ""
+},
+{
+    "id": 43,
+    "question": "?",
+    "options": ["","","","apprehend"],
+    "correct_Answer": "",
+    "explanation": ""
+},
+{
+    "id": 44,
+    "question": "?",
+    "options": ["apprehension","","",""],
+    "correct_Answer": "",
+    "explanation": ""
+},
+{
+    "id": 45,
+    "question": "?",
+    "options": ["appropriate","","",""],
+    "correct_Answer": "",
+    "explanation": ""
+},
+{
+    "id": 46,
+    "question": "?",
+    "options": ["","","","aquarium"],
+    "correct_Answer": "",
+    "explanation": ""
+},
+{
+    "id": 47,
+    "question": "?",
+    "options": ["archaeology","","",""],
+    "correct_Answer": "",
+    "explanation": ""
+},
+{
+    "id": 48,
+    "question": "?",
+    "options": ["","","architecture",""],
+    "correct_Answer": "",
+    "explanation": ""
+},
+{
+    "id": 49,
+    "question": "?",
+    "options": ["","","artillery",""],
+    "correct_Answer": "",
+    "explanation": ""
+},
+{
+    "id": 50,
+    "question": "?",
+    "options": ["ascent","","",""],
+    "correct_Answer": "",
+    "explanation": ""
+},
+{
+    "id": 51,
+    "question": "?",
+    "options": ["","","","ascertain"],
+    "correct_Answer": "",
+    "explanation": ""
+},
+{
+    "id": 52,
+    "question": "?",
+    "options": ["assassin","","",""],
+    "correct_Answer": "",
+    "explanation": ""
+},
+{
+    "id": 53,
+    "question": "?",
+    "options": ["","assassination","",""],
+    "correct_Answer": "",
+    "explanation": ""
+},
+{
+    "id": 54,
+    "question": "?",
+    "options": ["","","assessment",""],
+    "correct_Answer": "",
+    "explanation": ""
+},
+{
+    "id": 55,
+    "question": "?",
+    "options": ["","","","assistance"],
+    "correct_Answer": "",
+    "explanation": ""
+},
+{
+    "id": 56,
+    "question": "?",
+    "options": ["","","","awkward"],
+    "correct_Answer": "",
+    "explanation": ""
+},
+{
+    "id": 57,
+    "question": "?",
+    "options": ["","authoritative","",""],
+    "correct_Answer": "",
+    "explanation": ""
+},
+{
+    "id": 58,
+    "question": "?",
+    "options": ["","","awful",""],
+    "correct_Answer": "",
+    "explanation": ""
+},
+{
+    "id": 59,
+    "question": "?",
+    "options": ["","","",""],
+    "correct_Answer": "",
+    "explanation": ""
+},
+{
+    "id": 60,
+    "question": "?",
+    "options": ["","","",""],
+    "correct_Answer": "",
+    "explanation": ""
+}]}]
