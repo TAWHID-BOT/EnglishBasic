@@ -71,6 +71,76 @@
         "অপশন": ["bullettin", "bulleton", "bullatin", "bulletin"],
         "সঠিক_উত্তর": "bulletin",
         "বর্ণনা": "Bulletin (N) - বু-লে-টিন।\nঅর্থ: বিজ্ঞপ্তি, সংবাদ, ঘোষণাপত্র।\nএক্সাম্পল: The weather bulletin warned of heavy rainfall in the region.\nঅনুবাদ: আবহাওয়ার বুলেটিনে ওই অঞ্চলে ভারী বৃষ্টির সতর্কতা ঘোষণা করা হয়েছিল।"
+      },
+  {
+    "id": 11,
+    "প্রশ্ন": "Which of the following words is correctly spelled?",
+    "অপশন": ["bompkin", "bampkin", "bumpken", "bumpkin"],
+    "সঠিক_উত্তর": "bumpkin",
+    "বর্ণনা": "bumpkin (N) - বাম-কিন।\nঅর্থ: গেঁয়ো বা আনাড়ি লোক; অমার্জিত ব্যক্তি।\n\nএক্সাম্পল: He looked like a bumpkin when he entered the elegant restaurant.\nঅনুবাদ: চমৎকার রেস্টুরেন্টে ঢোকার পর সে একেবারে গেঁয়ো লোকের মতো লাগছিল।"
+  },
+  {
+    "id": 12,
+    "প্রশ্ন": "Find out the correctly spelt word.",
+    "অপশন": ["bangalow", "bungaloww", "bengalow", "bungalow"],
+    "সঠিক_উত্তর": "bungalow",
+    "বর্ণনা": "bungalow (N) - বাং-গা-লো।\nঅর্থ: একতলা ছোট বাড়ি; বাংলো।\n\nএক্সাম্পল: They stayed in a cozy bungalow by the lake.\nঅনুবাদ: তারা হ্রদের ধারে একটি আরামদায়ক বাংলোয় ছিল।"
+  },
+  {
+    "id": 13,
+    "প্রশ্ন": "Which word is correctly spelt?",
+    "অপশন": ["boyant", "buoiyant", "boyaint", "buoyant"],
+    "সঠিক_উত্তর": "buoyant",
+    "বর্ণনা": "buoyant (Adj) - বয়-য়ান্ট।\nঅর্থ: ভেসে থাকা; প্রাণবন্ত; ফুরফুরে।\n\nএক্সাম্পল: Her buoyant mood cheered everyone around her.\nঅনুবাদ: তার ফুরফুরে মনোভাব আশেপাশের সবাইকে আনন্দিত করল।"
+  },
+  {
+    "id": 14,
+    "প্রশ্ন": "The correct spelling is—",
+    "অপশন": ["bureou", "burreau", "bureao", "bureau"],
+    "সঠিক_উত্তর": "bureau",
+    "বর্ণনা": "bureau (N) - বু-রো।\nঅর্থ: সরকারি দপ্তর; অফিস; সংস্থা; ডেস্ক।\n\nএক্সাম্পল: She works at the tourism bureau downtown.\nঅনুবাদ: তিনি শহরের পর্যটন দপ্তরে কাজ করেন।"
+  },
+  {
+    "id": 15,
+    "прশ্ন": "Identify the correct spelling.",
+    "অপশন": ["bureacracy", "bureaucrazy", "bureucracy", "bureaucracy"],
+    "সঠিক_উত্তর": "bureaucracy",
+    "বর্ণনা": "bureaucracy (N) - বু-রো-ক্র্যা-সি।\nঅর্থ: আমলাতন্ত্র; সরকারি দপ্তরের নিয়ন্ত্রণব্যবস্থা।\n\nএক্সাম্পল: The new rule faced delays because of government bureaucracy.\nঅনুবাদ: সরকারি আমলাতান্ত্রিক জটিলতার কারণে নতুন নিয়মটি বিলম্বিত হয়েছিল।"
+  },
+  {
+    "id": 16,
+    "প্রশ্ন": "Which one is correct?",
+    "অপশন": ["Berglar", "Burguler", "Berglerr", "Burglar"],
+    "সঠিক_উত্তর": "Burglar",
+    "বর্ণনা": "Burglar (N) - বার্গ-লার।\nঅর্থ: সিঁদেল চোর; গৃহভেদী চোর।\n\nএক্সাম্পল: The burglar broke into the house at midnight.\nঅনুবাদ: মধ্যরাতে সিঁদেল চোরটি বাড়িতে ঢুকে পড়েছিল।"
+  },
+  {
+    "id": 17,
+    "প্রশ্ন": "Find the correctly spelt word.",
+    "অপশন": ["bureucrat", "bureoucratt", "buraucrat", "bureaucrat"],
+    "সঠিক_উত্তর": "bureaucrat",
+    "বর্ণনা": "bureaucrat (N) - বু-রো-ক্র্যাট।\nঅর্থ: আমলা; সরকারি কর্মচারী।\n\nএক্সাম্পল: The senior bureaucrat signed the agreement yesterday.\nঅনুবাদ: ঊর্ধ্বতন আমলাটি গতকাল চুক্তিতে স্বাক্ষর করেছেন।"
+  },
+  {
+    "id": 18,
+    "প্রশ্ন": "Which is the correct spelling?",
+    "অপশন": ["bureaucratss", "bureacrats", "bureaucrattss", "bureaucrats"],
+    "সঠিক_উত্তর": "bureaucrats",
+    "বর্ণনা": "bureaucrats (N) - বু-রো-ক্র্যা-টস।\nঅর্থ: সরকারি কর্মকর্তারা; আমলারা।\n\nএক্সাম্পল: The bureaucrats implemented the new tax policy.\nঅনুবাদ: আমলারা নতুন করনীতিটি বাস্তবায়ন করেন।"
+  },
+  {
+    "id": 19,
+    "প্রশ্ন": "Choose the correct spelling:",
+    "অপশন": ["burgeois", "bourgeoise", "bargeois", "bourgeois"],
+    "সঠিক_উত্তর": "bourgeois",
+    "বর্ণনা": "bourgeois (Adj/N) - বুঁয়া-জোয়া।\nঅর্থ: মধ্যবিত্ত; রক্ষণশীল; ভোগপ্রবণ।\n\nএক্সাম্পল: His bourgeois lifestyle reflects his love for comfort and routine.\nঅনুবাদ: তার মধ্যবিত্ত জীবনযাপন তার স্বাচ্ছন্দ্য ও অভ্যাসপ্রিয়তা প্রকাশ করে।"
+  },
+  {
+    "id": 20,
+    "প্রশ্ন": "Which of the following words is correctly spelled?",
+    "অপশন": ["brussel", "brussell", "brucell", "Brussels"],
+    "সঠিক_উত্তর": "Brussels",
+    "বর্ণনা": "Brussels (N) - ব্রাস-সেলস।\nঅর্থ: বেলজিয়ামের রাজধানী; ইউরোপের একটি গুরুত্বপূর্ণ শহর।\n\nএক্সাম্পল: The conference will be held in Brussels next year.\nঅনুবাদ: সম্মেলনটি আগামী বছর ব্রাসেলসে অনুষ্ঠিত হবে।"
       }
     ]
   }
