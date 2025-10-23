@@ -1,19 +1,146 @@
-"সঠিক_উত্তর": "bureaucrats",
-        "বর্ণনা": "bureaucrats (N) - বু-রো-ক্র্যা-টস।\nঅর্থ: আমলারা; সরকারি কর্মচারীবৃন্দ।\n\nএক্সাম্পল: The bureaucrats are responsible for implementing the government's decisions.\nঅনুবাদ: সরকারি সিদ্ধান্তগুলি বাস্তবায়নের জন্য আমলারা (কর্মচারীবৃন্দ) বিশেষভাবে দায়ী।"
+[
+  {
+    "subHeading": "LETTER WITH B",
+    "mcq": [
+      {
+        "id": 1,
+        "প্রশ্ন": "Choose the correct spelling:",
+        "অপশন": ["Balot", "Balott", "Ballot", "Ballott"],
+        "সঠিক_উত্তর": "Ballot",
+        "বর্ণনা": "Ballot (N) - ব্যাল-ট।\nবাংলা অর্থ: গোপন বা লিখিত ভোট; ভোটপত্র; নির্বাচন।\n\nDaily Sentence: The citizens cast their ballot to elect a new mayor.\nবাংলা অনুবাদ: নতুন মেয়র নির্বাচন করার জন্য নাগরিকরা তাদের ভোটপত্র ব্যবহার করলেন।"
+      },
+      {
+        "id": 2,
+        "প্রশ্ন": "Which of the following words is correctly spelled?",
+        "অপশন": ["Barrack", "Barrak", "Berrak", "Barrac"],
+        "সঠিক_উত্তর": "Barrack",
+        "বর্ণনা": "Barrack (N) - ব্যা-রাক।\nবাংলা অর্থ: সৈনিকদের থাকার ঘর বা ছাউনি; সেনানিবাস।\n\nDaily Sentence: The soldiers returned to the barrack after the training exercise.\nবাংলা অনুবাদ: প্রশিক্ষণের পর সৈন্যরা ব্যারাকে ফিরে গেল।"
+      },
+      {
+        "id": 3,
+        "প্রশ্ন": "Find out the correctly spelt word.",
+        "অপশন": ["batallion", "battallion", "bataleon", "battalion"],
+        "সঠিক_উত্তর": "battalion",
+        "বর্ণনা": "battalion (N) - ব্যা-টা-লি-অ-ন।\nবাংলা অর্থ: এক ধরনের সামরিক ইউনিট; পদাতিক সৈন্যদল; ব্যাটালিয়ন।\n\nDaily Sentence: A battalion of troops was deployed to the border area.\nবাংলা অনুবাদ: এক ব্যাটালিয়ন সৈন্যকে সীমান্ত এলাকায় মোতায়েন করা হয়েছিল।"
+      },
+      {
+        "id": 4,
+        "প্রশ্ন": "Which what is correctly spelt?",
+        "অপশন": ["beligerent", "belligerentt", "balligerent", "belligerent"],
+        "সঠিক_উত্তর": "belligerent",
+        "বর্ণনা": "belligerent (Adj) - বে-লি-জা-রেন-ট।\nবাংলা অর্থ: যুদ্ধরত; যুদ্ধকামী; ঝগড়াটে।\n\nDaily Sentence: His belligerent attitude often led to arguments with colleagues.\nবাংলা অনুবাদ: তার যুদ্ধংদেহী মনোভাব প্রায়ই সহকর্মীদের সাথে তর্কের জন্ম দিত।"
+      },
+      {
+        "id": 5,
+        "প্রশ্ন": "The correct spelling is—",
+        "অপশন": ["beneficience", "benifecence", "beneficence", "benificence"],
+        "সঠিক_উত্তর": "beneficence",
+        "বর্ণনা": "beneficence (N) - বে-নে-ফি-সেন-স।\nবাংলা অর্থ: দানশীলতা; পরোপকার; হিতৈষণা।\n\nDaily Sentence: The museum greatly benefited from the beneficence of a local entrepreneur.\nবাংলা অনুবাদ: স্থানীয় একজন উদ্যোক্তার বদান্যতায় জাদুঘরটি বিশেষভাবে উপকৃত হয়েছে।"
+      },
+      {
+        "id": 6,
+        "প্রশ্ন": "Identify the correct spelling.",
+        "অপশন": ["bouquet", "bouquate", "boukett", "bouqet"],
+        "সঠিক_উত্তর": "bouquet",
+        "বর্ণনা": "bouquet (N) - বু-কে।\nবাংলা অর্থ: ফুলের তোড়া; গুচ্ছ।\n\nDaily Sentence: She received a lovely bouquet of roses on her birthday.\nবাংলা অনুবাদ: জন্মদিনে সে একগুচ্ছ সুন্দর গোলাপের তোড়া পেয়েছিল।"
+      },
+      {
+        "id": 7,
+        "প্রশ্ন": "Which one is correct?",
+        "অপশন": ["brillience", "brilliance", "brilliancee", "brilleance"],
+        "সঠিক_উত্তর": "brilliance",
+        "বর্ণনা": "brilliance (N) - ব্রি-লি-য়ান-স।\nবাংলা অর্থ: উজ্জ্বলতা; মেধা; দক্ষতা; দীপ্তি।\n\nDaily Sentence: His brilliance in mathematics earned him a scholarship.\nবাংলা অনুবাদ: গণিতে তার দক্ষতার কারণে সে একটি বৃত্তি পেয়েছিল।"
+      },
+      {
+        "id": 8,
+        "প্রশ্ন": "Find the correctly spelt word.",
+        "অপশন": ["buffelo", "buffalo", "buffaloe", "bufalo"],
+        "সঠিক_উত্তর": "buffalo",
+        "বর্ণনা": "buffalo (N) - বা-ফা-লো।\nবাংলা অর্থ: মহিষ; বন্য মহিষ।\n\nDaily Sentence: A herd of water buffalo was grazing near the river bank.\nবাংলা অনুবাদ: একপাল জলের মহিষ নদীর ধারে চরছিল।"
+      },
+      {
+        "id": 9,
+        "প্রশ্ন": "Which is the correctly spelling?",
+        "অপশন": ["buffoonery", "baffoonery", "buffoonary", "buffooneryy"],
+        "সঠিক_উত্তর": "buffoonery",
+        "বর্ণনা": "buffoonery (N) - বা-ফুন-রি।\nবাংলা অর্থ: ভাঁড়ামি; ইয়ার্কি; কৌতুক; ঠাট্টা।\n\nDaily Sentence: The manager disliked the constant buffoonery in the office.\nবাংলা অনুবাদ: ব্যবস্থাপক অফিসে এই ধরনের অবিরাম ভাঁড়ামি পছন্দ করতেন না।"
+      },
+      {
+        "id": 10,
+        "প্রশ্ন": "Choose the correct spelling:",
+        "অপশন": ["bullettin", "bulleton", "bullatin", "bulletin"],
+        "সঠিক_উত্তর": "bulletin",
+        "বর্ণনা": "bulletin (N) - বু-লে-টিন।\nবাংলা অর্থ: সংক্ষিপ্ত সংবাদ; বিজ্ঞপ্তি; ঘোষণাপত্র; বুলেটিন।\n\nDaily Sentence: The weather bulletin warned of heavy rainfall in the region.\nবাংলা অনুবাদ: আবহাওয়ার বুলেটিনে ওই অঞ্চলে ভারী বৃষ্টির সতর্কতা দেওয়া হয়েছিল।"
+      },
+      {
+        "id": 11,
+        "প্রশ্ন": "Which of the following words is correctly spelled?",
+        "অপশন": ["bumpkin", "bompkin", "bampkin", "bumpken"],
+        "সঠিক_উত্তর": "bumpkin",
+        "বর্ণনা": "bumpkin (N) - বাম-কিন।\nবাংলা অর্থ: গেঁয়ো লোক; অমার্জিত বা আনাড়ি ব্যক্তি; গ্রাম্য লোক।\n\nDaily Sentence: He felt like a bumpkin when he first moved to the large city.\nবাংলা অনুবাদ: যখন সে প্রথম বড় শহরে এলো, তখন তার নিজেকে একজন গেঁয়ো লোক বলে মনে হচ্ছিল।"
+      },
+      {
+        "id": 12,
+        "প্রশ্ন": "Find out the correctly spelt word.",
+        "অপশন": ["bangalow", "bungaloww", "bengalow", "bungalow"],
+        "সঠিক_উত্তর": "bungalow",
+        "বর্ণনা": "bungalow (N) - বাং-গা-লো।\nবাংলা অর্থ: ছোট একতলা বাড়ি; বাংলা ঘর; বাংলো।\n\nDaily Sentence: They decided to rent a charming bungalow near the beach for the vacation.\nবাংলা অনুবাদ: তারা ছুটির জন্য সমুদ্র সৈকতের কাছে একটি মনোরম বাংলো ভাড়া নেওয়ার সিদ্ধান্ত নিল।"
+      },
+      {
+        "id": 13,
+        "প্রশ্ন": "Which what is correctly spelt?",
+        "অপশন": ["boyant", "buoyant", "buoiyant", "boyaint"],
+        "সঠিক_উত্তর": "buoyant",
+        "বর্ণনা": "buoyant (Adj) - বয়-য়ান্ট।\nবাংলা অর্থ: ভেসে থাকার ক্ষমতাসম্পন্ন; প্রাণবন্ত; ফুরফুরে।\n\nDaily Sentence: Even after the setback, her spirit remained buoyant and optimistic.\nবাংলা অনুবাদ: ধাক্কা খাওয়ার পরেও তার মনোবল ফুরফুরে এবং আশাবাদী ছিল।"
+      },
+      {
+        "id": 14,
+        "প্রশ্ন": "The correct spelling is—",
+        "অপশন": ["bureou", "bureau", "burreau", "bureao"],
+        "সঠিক_উত্তর": "bureau",
+        "বর্ণনা": "bureau (N) - বু-রো।\nবাংলা অর্থ: সরকারি দপ্তর; ডেস্ক বা লেখার টেবিল; ব্যুরো।\n\nDaily Sentence: He works in the local statistics bureau, collecting data.\nবাংলা অনুবাদ: তিনি স্থানীয় পরিসংখ্যান দপ্তরে তথ্য সংগ্রহের কাজ করেন।"
+      },
+      {
+        "id": 15,
+        "প্রশ্ন": "Identify the correct spelling.",
+        "অপশন": ["bureaucracy", "bureacracy", "bureaucrazy", "bureucracy"],
+        "সঠিক_উত্তর": "bureaucracy",
+        "বর্ণনা": "bureaucracy (N) - বু-রো-ক্র্যা-সি।\nবাংলা অর্থ: আমলাতন্ত্র; সরকারি কর্মচারী দ্বারা পরিচালিত শাসনব্যবস্থা; লালফিতার দৌরাত্ম্য।\n\nDaily Sentence: Dealing with the government bureaucracy can sometimes be frustratingly slow.\nবাংলা অনুবাদ: সরকারি আমলাতন্ত্রের সাথে কাজ করা কখনও কখনও হতাশাজনকভাবে ধীর হতে পারে।"
+      },
+      {
+        "id": 16,
+        "প্রশ্ন": "Which one is correct?",
+        "অপশন": ["Berglar", "Burglar", "Burguler", "Berglerr"],
+        "সঠিক_উত্তর": "Burglar",
+        "বর্ণনা": "Burglar (N) - বার্গ-লার।\nবাংলা অর্থ: সিঁদেল চোর; গৃহভেদী; যে চোর রাতে বাড়িতে প্রবেশ করে চুরি করে।\n\nDaily Sentence: The police caught the burglar trying to escape through the window.\nবাংলা অনুবাদ: জানালা দিয়ে পালানোর সময় পুলিশ চোরটিকে ধরে ফেলে।"
+      },
+      {
+        "id": 17,
+        "প্রশ্ন": "Find the correctly spelt word.",
+        "অপশন": ["bureucrat", "bureaucrat", "bureoucratt", "buraucrat"],
+        "সঠিক_উত্তর": "bureaucrat",
+        "বর্ণনা": "bureaucrat (N) - বু-রো-ক্র্যাট।\nবাংলা অর্থ: আমলা; সরকারি কর্মচারী।\n\nDaily Sentence: The senior bureaucrat approved the new policy after several meetings.\nবাংলা অনুবাদ: বেশ কয়েকটি বৈঠকের পর ঊর্ধ্বতন আমলা নতুন নীতি অনুমোদন করলেন।"
+      },
+      {
+        "id": 18,
+        "প্রশ্ন": "Which is the correctly spelling?",
+        "অপশন": ["bureaucratss", "bureaucrats", "bureacrats", "bureaucrattss"],
+        "সঠিক_উত্তর": "bureaucrats",
+        "বর্ণনা": "bureaucrats (N) - বু-রো-ক্র্যা-টস।\nবাংলা অর্থ: আমলারা; সরকারি কর্মচারীবৃন্দ।\n\nDaily Sentence: The bureaucrats are responsible for implementing the government's decisions.\nবাংলা অনুবাদ: সরকারি সিদ্ধান্তগুলি বাস্তবায়নের জন্য আমলারা দায়ী।"
       },
       {
         "id": 19,
         "প্রশ্ন": "Choose the correct spelling:",
-        "অপশন": ["burgeois", "bourgeoise", "bargeois", "bourgeois"],
+        "অপশন": ["bourgeois", "burgeois", "bourgeoise", "bargeois"],
         "সঠিক_উত্তর": "bourgeois",
-        "বর্ণনা": "bourgeois (Adj/N) - বুঁয়া-জোআ।\nঅর্থ: মধ্যবিত্ত শ্রেণির মানুষ বা তাদের স্বভাব; রক্ষণশীল; ঐতিহ্যবাদী; ভোগী।\n\nএক্সাম্পল: The novel satirizes the pretentious lifestyle of the bourgeois class.\nঅনুবাদ: উপন্যাসটি মধ্যবিত্ত শ্রেণির ভানপূর্ণ (লোক দেখানো) জীবনধারাকে তীব্রভাবে ব্যঙ্গ করে।"
+        "বর্ণনা": "bourgeois (Adj/N) - বুঁয়া-জোআ।\nবাংলা অর্থ: মধ্যবিত্ত শ্রেণির মানুষ বা তাদের স্বভাব; রক্ষণশীল; ঐতিহ্যবাদী।\n\nDaily Sentence: The novel satirizes the pretentious lifestyle of the bourgeois class.\nবাংলা অনুবাদ: উপন্যাসটি মধ্যবিত্ত শ্রেণির ভানপূর্ণ জীবনধারাকে ব্যঙ্গ করে।"
       },
       {
         "id": 20,
         "প্রশ্ন": "Which of the following words is correctly spelled?",
         "অপশন": ["brussel", "brussell", "brucell", "Brussels"],
         "সঠিক_উত্তর": "Brussels",
-        "বর্ণনা": "Brussels (N) - ব্রাস-সেলস।\nঅর্থ: ইউরোপের একটি গুরুত্বপূর্ণ শহর এবং বেলজিয়ামের রাজধানী; ব্রাসেলস।\n\nএক্সাম্পল: We plan to travel to Brussels next month to visit the European Union headquarters.\nঅনুবাদ: ইউরোপীয় ইউনিয়নের সদর দপ্তর দেখতে আমরা পরের মাসে ব্রাসেলস ভ্রমণের পরিকল্পনা করেছি।"
+        "বর্ণনা": "Brussels (N) - ব্রাস-সেলস।\nবাংলা অর্থ: ইউরোপের একটি গুরুত্বপূর্ণ শহর এবং বেলজিয়ামের রাজধানী; ব্রাসেলস।\n\nDaily Sentence: We plan to travel to Brussels next month to visit the European Union headquarters.\nবাংলা অনুবাদ: ইউরোপীয় ইউনিয়নের সদর দপ্তর দেখতে আমরা পরের মাসে ব্রাসেলস ভ্রমণের পরিকল্পনা করেছি।"
       }
     ]
   }
