@@ -1,0 +1,353 @@
+[
+  {
+      "subHeading": "Poets Titles",
+          "mcq": [
+    {
+        "id": 1,
+        "প্রশ্ন": "Who is considered the 'Father of English Literature' and 'Father of English Poetry'?",
+        "অপশন": [
+            "William Shakespeare",
+            "Geoffrey Chaucer",
+            "John Milton",
+            "Francis Bacon"
+        ],
+        "সঠিক_উত্তর": "Geoffrey Chaucer",
+        "বর্ণনা": "Geoffrey Chaucer (জিওফ্রে চসার) হলেন ইংরেজি সাহিত্যের এবং ইংরেজি কবিতার জনক। মধ্যযুগের এই কবি ইংরেজি ভাষাকে সাহিত্যিক রূপ দেন।"
+    },
+    {
+        "id": 2,
+        "প্রশ্ন": "William Shakespeare is famously known as the:",
+        "অপশন": [
+            "Bard of Avon",
+            "The Greatest Dramatist",
+            "Both A and B",
+            "Poet of Nature"
+        ],
+        "সঠিক_উত্তর": "Both A and B",
+        "বর্ণনা": "William Shakespeare (উইলিয়াম শেক্সপীয়র) 'Bard of Avon' (অ্যাভনের চারণকবি) এবং 'The Greatest Dramatist' (সর্বকালের শ্রেষ্ঠ নাট্যকার) উভয় নামেই সুপরিচিত।"
+    },
+    {
+        "id": 3,
+        "প্রশ্ন": "Who is known as the 'Father of Modern English Literature'?",
+        "অপশন": [
+            "George Bernard Shaw",
+            "Christopher Marlowe",
+            "John Dryden",
+            "William Wordsworth"
+        ],
+        "সঠিক_উত্তর": "George Bernard Shaw",
+        "বর্ণনা": "George Bernard Shaw (জর্জ বার্নার্ড শ) আধুনিক ইংরেজি সাহিত্যের জনক এবং অন্যতম শ্রেষ্ঠ নাট্যকার হিসেবে পরিচিত।"
+    },
+    {
+        "id": 4,
+        "প্রশ্ন": "Who is the 'First/Earliest English Poet'?",
+        "অপশন": [
+            "Venerable Bede",
+            "Caedmon",
+            "Edmund Spenser",
+            "John Donne"
+        ],
+        "সঠিক_উত্তর": "Caedmon",
+        "বর্ণনা": "Caedmon (ক্যাডমোন) ইংরেজি সাহিত্যের আদি কবি হিসেবে স্বীকৃত। তিনি প্রাচীন ইংরেজি পিরিয়ডে ধর্মীয় কাব্য রচনা করতেন।"
+    },
+    {
+        "id": 5,
+        "প্রশ্ন": "Who is called the 'Poet of Poets'?",
+        "অপশন": [
+            "Edmund Spenser",
+            "Lord Byron",
+            "John Keats",
+            "P. B. Shelley"
+        ],
+        "সঠিক_উত্তর": "Edmund Spenser",
+        "বর্ণনা": "Edmund Spenser (এডমন্ড স্পেন্সার) কবিদের কবি হিসেবে পরিচিত। তাঁর অমর সৃষ্টি 'The Faerie Queene'।"
+    },
+    {
+        "id": 6,
+        "প্রশ্ন": "Which literary figure is known as the 'Rebel Poet' and a national hero of Greece?",
+        "অপশন": [
+            "P. B. Shelley",
+            "Lord Byron",
+            "John Donne",
+            "S. T. Coleridge"
+        ],
+        "সঠিক_উত্তর": "Lord Byron",
+        "বর্ণনা": "Lord Byron (লর্ড বাইরন) ইংরেজি সাহিত্যের বিদ্রোহী কবি। তিনি গ্রিসের স্বাধীনতা যুদ্ধে অংশ নিয়েছিলেন বলে তাঁদের জাতীয় বীরও বলা হয়।"
+    },
+    {
+        "id": 7,
+        "প্রশ্ন": "Who is the 'Revolutionary Romantic Poet' and the 'Poet of Skylark and Winds'?",
+        "অপশন": [
+            "P. B. Shelley",
+            "John Keats",
+            "William Wordsworth",
+            "S. T. Coleridge"
+        ],
+        "সঠিক_উত্তর": "P. B. Shelley",
+        "বর্ণনা": "P. B. Shelley (পি. বি. শেলি) একজন বিপ্লবী রোমান্টিক কবি। 'Ode to the West Wind' এবং 'To a Skylark' তাঁর বিখ্যাত কবিতা।"
+    },
+    {
+        "id": 8,
+        "প্রশ্ন": "John Keats is referred to as the:",
+        "অপশন": [
+            "Poet of Beauty",
+            "Poet of Sensuousness",
+            "Both A and B",
+            "Lake Poet"
+        ],
+        "সঠিক_উত্তর": "Both A and B",
+        "বর্ণনা": "John Keats (জন কিটস) সৌন্দর্যের কবি এবং ইন্দ্রিয়গ্রাহ্যতার (Sensuousness) কবি হিসেবে পরিচিত। তিনি রোমান্টিক যুগের কনিষ্ঠ কবি ছিলেন।"
+    },
+    {
+        "id": 9,
+        "প্রশ্ন": "Who is known as the 'Poet of Nature' and 'Lake Poet'?",
+        "অপশন": [
+            "William Wordsworth",
+            "S. T. Coleridge",
+            "Lord Byron",
+            "P. B. Shelley"
+        ],
+        "সঠিক_উত্তর": "William Wordsworth",
+        "বর্ণনা": "William Wordsworth (উইলিয়াম ওয়ার্ডসওয়ার্থ) প্রকৃতির কবি এবং লেক ডিস্ট্রিক্টে বসবাসের কারণে 'Lake Poet' নামে পরিচিত।"
+    },
+    {
+        "id": 10,
+        "প্রশ্ন": "Who is the 'Poet of Supernaturalism'?",
+        "অপশন": [
+            "William Wordsworth",
+            "S. T. Coleridge",
+            "John Milton",
+            "Jane Austen"
+        ],
+        "সঠিক_উত্তর": "S. T. Coleridge",
+        "বর্ণনা": "S. T. Coleridge (এস. টি. কোলরিজ) অতিপ্রাকৃতবাদের কবি হিসেবে পরিচিত। 'The Rime of the Ancient Mariner' তাঁর বিখ্যাত অতিপ্রাকৃত কবিতা।"
+    },
+    {
+        "id": 11,
+        "প্রশ্ন": "Who is the 'Father of English Tragedy'?",
+        "অপশন": [
+            "Christopher Marlowe",
+            "William Shakespeare",
+            "Nicholas Udall",
+            "Ben Jonson"
+        ],
+        "সঠিক_উত্তর": "Christopher Marlowe",
+        "বর্ণনা": "Christopher Marlowe (ক্রিস্টোফার মার্লো) ইংরেজি ট্র্যাজেডির জনক। তাঁর 'Mighty Line' বা ব্ল্যাঙ্ক ভার্স ব্যবহারের পদ্ধতি শেক্সপীয়রকেও প্রভাবিত করেছিল।"
+    },
+    {
+        "id": 12,
+        "প্রশ্ন": "Who is the 'Father of English History'?",
+        "অপশন": [
+            "Venerable Bede",
+            "John Dryden",
+            "Jonathan Swift",
+            "John Wycliffe"
+        ],
+        "সঠিক_উত্তর": "Venerable Bede",
+        "বর্ণনা": "Venerable Bede (ভেনেবল বিড) ইংল্যান্ডের গির্জা ও জনগণের ইতিহাস লিপিবদ্ধ করার জন্য ইংরেজি ইতিহাসের জনক হিসেবে পরিচিত।"
+    },
+    {
+        "id": 13,
+        "প্রশ্ন": "Who is known as the 'Epic Poet' and 'Great Master of Verse'?",
+        "অপশন": [
+            "John Milton",
+            "John Keats",
+            "Alexander Pope",
+            "Mark Twain"
+        ],
+        "সঠিক_উত্তর": "John Milton",
+        "বর্ণনা": "John Milton (জন মিল্টন) তাঁর অমর মহাকাব্য 'Paradise Lost' এর জন্য মহাকাব্যের কবি এবং পদ্যের মহান কারিগর হিসেবে পরিচিত।"
+    },
+    {
+        "id": 14,
+        "প্রশ্ন": "Who is 'The Greatest Satirist' in English Literature?",
+        "অপশন": [
+            "Jonathan Swift",
+            "Alexander Pope",
+            "John Dryden",
+            "Ben Jonson"
+        ],
+        "সঠিক_উত্তর": "Jonathan Swift",
+        "বর্ণনা": "Jonathan Swift (জোনাথন সুইফট) ইংরেজি সাহিত্যের শ্রেষ্ঠ ব্যঙ্গসাহিত্যিক। তাঁর বিখ্যাত ব্যঙ্গাত্মক রচনা হলো 'Gulliver's Travels'।"
+    },
+    {
+        "id": 15,
+        "প্রশ্ন": "Who is the 'Father of Metaphysical Poetry' and 'Poet of Love'?",
+        "অপশন": [
+            "John Donne",
+            "Sir Thomas Wyatt",
+            "Robert Browning",
+            "George Bernard Shaw"
+        ],
+        "সঠিক_উত্তর": "John Donne",
+        "বর্ণনা": "John Donne (জন ডান) মেটাফিজিক্যাল কবিতার জনক এবং প্রেমের কবি হিসেবে বিখ্যাত।"
+    },
+    {
+        "id": 16,
+        "প্রশ্ন": "Who is the 'Father of English Sonnet'?",
+        "অপশন": [
+            "Sir Thomas Wyatt",
+            "William Shakespeare",
+            "Edmund Spenser",
+            "John Dryden"
+        ],
+        "সঠিক_উত্তর": "Sir Thomas Wyatt",
+        "বর্ণনা": "Sir Thomas Wyatt (স্যার থমাস ওয়ায়াট) ইতালীয় সনেটকে ইংরেজিতে প্রবর্তন করার মাধ্যমে ইংরেজি সনেটের জনকের মর্যাদা পান।"
+    },
+    {
+        "id": 17,
+        "প্রশ্ন": "Who is the 'Father of Modern English Criticism'?",
+        "অপশন": [
+            "John Dryden",
+            "Alexander Pope",
+            "Francis Bacon",
+            "Lindley Murray"
+        ],
+        "সঠিক_উত্তর": "John Dryden",
+        "বর্ণনা": "John Dryden (জন ড্রাইডেন) আধুনিক ইংরেজি সমালোচনা সাহিত্যের ভিত্তি স্থাপন করেছিলেন।"
+    },
+    {
+        "id": 18,
+        "প্রশ্ন": "Who is the 'Mock Heroic Poet'?",
+        "অপশন": [
+            "Alexander Pope",
+            "John Donne",
+            "Jonathan Swift",
+            "Christopher Marlowe"
+        ],
+        "সঠিক_উত্তর": "Alexander Pope",
+        "বর্ণনা": "Alexander Pope (অ্যালেকজান্ডার পোপ) বীরগাথাকে ব্যঙ্গাত্মক রূপে ফুটিয়ে তোলার জন্য 'Mock Heroic Poet' হিসেবে পরিচিত।"
+    },
+    {
+        "id": 19,
+        "প্রশ্ন": "Who is called 'Anti-Romantic in the Romantic Age'?",
+        "অপশন": [
+            "Jane Austen",
+            "Mary Shelley",
+            "William Wordsworth",
+            "Charlotte Bronte"
+        ],
+        "সঠিক_উত্তর": "Jane Austen",
+        "বর্ণনা": "Jane Austen (জেন অস্টিন) রোমান্টিক যুগে লিখলেও তাঁর উপন্যাসে বাস্তববাদ বেশি ফুটে উঠত, তাই তাঁকে অ-রোমান্টিক লেখিকা বলা হয়।"
+    },
+    {
+        "id": 20,
+        "প্রশ্ন": "Who is known as the 'Father of English Prose'?",
+        "অপশন": [
+            "John Wycliffe",
+            "Francis Bacon",
+            "Both A and B",
+            "None of these"
+        ],
+        "সঠিক_উত্তর": "Both A and B",
+        "বর্ণনা": "John Wycliffe বাইবেল অনুবাদের মাধ্যমে এবং Francis Bacon তাঁর প্রবন্ধের মাধ্যমে ইংরেজি গদ্যকে সমৃদ্ধ করেছেন, তাই উভয়কেই এ উপাধি দেওয়া হয়।"
+    },
+    {
+        "id": 21,
+        "প্রশ্ন": "Who is the 'Father of English Short Story & Detective Story'?",
+        "অপশন": [
+            "Edgar Allan Poe",
+            "Rudyard Kipling",
+            "Mark Twain",
+            "Robert Browning"
+        ],
+        "সঠিক_উত্তর": "Edgar Allan Poe",
+        "বর্ণনা": "Edgar Allan Poe (এডগার অ্যালান পো) আধুনিক ছোটগল্প এবং গোয়েন্দা কাহিনীর জনক।"
+    },
+    {
+        "id": 22,
+        "প্রশ্ন": "Who is the 'Father of Dramatic Monologue'?",
+        "অপশন": [
+            "Robert Browning",
+            "Alfred Tennyson",
+            "Matthew Arnold",
+            "John Keats"
+        ],
+        "সঠিক_উত্তর": "Robert Browning",
+        "বর্ণনা": "Robert Browning (রবার্ট ব্রাউনিং) নাট্যধর্মী স্বগতোক্তি বা Dramatic Monologue কে জনপ্রিয় করার জন্য এর জনক হিসেবে পরিচিত।"
+    },
+    {
+        "id": 23,
+        "প্রশ্ন": "Who is the 'First English Comedy Writer'?",
+        "অপশন": [
+            "Nicholas Udall",
+            "Ben Jonson",
+            "William Shakespeare",
+            "Christopher Marlowe"
+        ],
+        "সঠিক_উত্তর": "Nicholas Udall",
+        "বর্ণনা": "Nicholas Udall (নিকোলাস উডাল) 'Ralph Roister Doister' রচনার মাধ্যমে প্রথম ইংরেজি কমেডি লেখক হিসেবে পরিচিতি পান।"
+    },
+    {
+        "id": 24,
+        "প্রশ্ন": "Who is the 'Father of Comedy of Humours'?",
+        "অপশন": [
+            "Ben Jonson",
+            "William Shakespeare",
+            "Nicholas Udall",
+            "John Dryden"
+        ],
+        "সঠিক_উত্তর": "Ben Jonson",
+        "বর্ণনা": "Ben Jonson (বেন জনসন) কমেডি অফ হিউমারস নামক নাট্যরীতির জনক।"
+    },
+    {
+        "id": 25,
+        "প্রশ্ন": "Who is known as the 'Father of Science Fiction'?",
+        "অপশন": [
+            "Jules Verne",
+            "H.G. Wells",
+            "Both A and B",
+            "Mark Twain"
+        ],
+        "সঠিক_উত্তর": "Both A and B",
+        "বর্ণনা": "Jules Verne এবং H.G. Wells দুজনকেই কল্পবিজ্ঞানের জনক বলা হয়। অপশনে একজন থাকলে তাঁকে বেছে নিতে হবে।"
+    },
+    {
+        "id": 26,
+        "প্রশ্ন": "Who is the 'Father of English Essay'?",
+        "অপশন": [
+            "Francis Bacon",
+            "John Dryden",
+            "Alexander Pope",
+            "Jonathan Swift"
+        ],
+        "সঠিক_উত্তর": "Francis Bacon",
+        "বর্ণনা": "Francis Bacon (ফ্রান্সিস বেকন) ইংরেজি প্রবন্ধের জনক। তাঁর প্রবন্ধগুলো ছিল ছোট এবং জ্ঞানগর্ভ।"
+    },
+    {
+        "id": 27,
+        "প্রশ্ন": "Who is the 'Father of English Grammar'?",
+        "অপশন": [
+            "Lindley Murray",
+            "John Milton",
+            "Lindley Scott",
+            "George Bernard Shaw"
+        ],
+        "সঠিক_উত্তর": "Lindley Murray",
+        "বর্ণনা": "Lindley Murray (লিন্ডলি মারে) ইংরেজি ব্যাকরণের জনক হিসেবে পরিচিত।"
+    },
+    {
+        "id": 28,
+        "প্রশ্ন": "Who was the first Nobel Prize winner in English Literature?",
+        "অপশন": [
+            "Rudyard Kipling",
+            "George Bernard Shaw",
+            "T.S. Eliot",
+            "W.B. Yeats"
+        ],
+        "সঠিক_উত্তর": "Rudyard Kipling",
+        "বর্ণনা": "Rudyard Kipling (রুডইয়ার্ড কিপলিং) ১৯০৭ সালে ইংরেজি সাহিত্যে প্রথম নোবেল পুরস্কার লাভ করেন।"
+    },
+    {
+        "id": 29,
+        "প্রশ্ন": "Who is the 'Father of American Literature'?",
+        "অপশন": [
+            "Mark Twain",
+            "Edgar Allan Poe",
+            "Walt Whitman",
+            "Robert Frost"
+        ],
+        "সঠিক_উত্তর": "Mark Twain",
+        "বর্ণনা": "Mark Twain (মার্ক টোয়েন) আমেরিকান সাহিত্যের জনক হিসেবে পরিচিত। 'Adventures of Huckleberry Finn' তাঁর শ্রেষ্ঠ কাজ।"
+    }
+]}]
